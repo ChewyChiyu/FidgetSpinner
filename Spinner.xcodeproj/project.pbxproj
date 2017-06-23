@@ -522,6 +522,7 @@
 				20F9262B1EFD75CF001FD1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		20F9262C1EFD75CF001FD1D4 /* Build configuration list for PBXNativeTarget "SpinnerTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +531,7 @@
 				20F9262E1EFD75CF001FD1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		20F9262F1EFD75CF001FD1D4 /* Build configuration list for PBXNativeTarget "SpinnerUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +540,7 @@
 				20F926311EFD75CF001FD1D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
